@@ -1,0 +1,9 @@
+fileA content:
+    hello, fileA
+fileB content:                                                                                                                                                                                           
+    hello, fileB
+fileA content:
+    hello, fileA
+    second append
+fileB content:                                                                                                                                                                                           
+    hello, fileB
